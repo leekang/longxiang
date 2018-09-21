@@ -9,8 +9,8 @@ module.exports = () => {
  co(function *() {
 
    // 分步接收用户输入的参数
-   let tplName = yield prompt('Template name: ')
-   let gitUrl = yield prompt('Git https link: ')
+   let tplName = yield prompt('Template name: ');
+   let gitUrl = yield prompt('Git https link: ');
    let branch = yield prompt('Branch: ')
     
    // 避免重复添加

@@ -1,4 +1,4 @@
-#!/usr/bin/env/ node --harmony
+#!/usr/bin/env node --harmony
 'use strict'
 
 //定义脚手架的文件路径

@@ -9,6 +9,10 @@
   "bin": {
     "longxiang": "bin/longxiang"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leekang/longxiang"
+  },
   "author": "longxiang",
   "license": "ISC",
   "dependencies": {
